@@ -403,6 +403,11 @@ hash = "810fbabdd91663392e9cb750333da9db68b26aa337d53e698c91010156018bde"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "b1e08d3a6db8777433227b2b300c89795d7baced15a012fe256aaddef74e91b6"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "04f291e09673facfc8e25f103c8b9379a0bb31e91c78f9513cbd808693a2d860"
 metafile = true
@@ -422,6 +427,11 @@ file = "mods/boatiview-fabric-0.0.8-1.21.11.jar"
 hash = "0f2c88285bd2bc4a4cd9d70eafb0960ab713410fbb3ed2fd0ae53cc46f07c479"
 
 [[files]]
+file = "mods/bookshelf-inspector.pw.toml"
+hash = "8096cf07e14f2259ae8f72837b1a0e15a6d379eedc428a1cf5ced084f05a4d83"
+metafile = true
+
+[[files]]
 file = "mods/bookshelfinspector-fabric-2.2+1.21.11.jar"
 hash = "004caf0aedf754cb45fbfb5590fcb016fefdb2dc63b9cd26014beff08c83427a"
 
@@ -437,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f259fadfd878ad1cc800a87b66a2fb46716c83b2fb1e3fd67a034ff215b3a53b"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
@@ -531,6 +541,11 @@ hash = "c76d23f24d4318c25c08c5bb55057af752fa8f60bd7989fc95eb23a223ab8228"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "544eaa2ff476c609cbfd4487fcdd09feda5f9208f1976bf3ceb4fbe4e3bb0e27"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "b898e0d94915287fcce4f85a3e5135e831475957e03d035ac05ecd7a7585929d"
 metafile = true
@@ -595,13 +610,18 @@ file = "mods/locator_lodestones-1.4.5+1.21.9+B.jar"
 hash = "5fcf9a6060a7b8a79f803705ecec1001efddde4d21f3ab4b35d30dd7703bb948"
 
 [[files]]
+file = "mods/locator_lodestones.pw.toml"
+hash = "20de1dd2d0f30c35d674be984654c706609e75072c31f9eb3fddaa6c35ee66b9"
+metafile = true
+
+[[files]]
 file = "mods/malilib-update-port.pw.toml"
 hash = "aa607ff2873f8165a7bd9c8d28976aebb578402d08ea73ae62c5d5cd7cf36b50"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "037f48cc503913e20d60a198fe1d6b40953e32cfb0fdff45361bbf1cdf6708ad"
+hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
 
 [[files]]
@@ -647,6 +667,11 @@ metafile = true
 [[files]]
 file = "mods/pickup-notifications.pw.toml"
 hash = "a4583b2f05dc041c784e5ff4798d8dfb94883821dfd321c0e2e0c7a9e9b4c464"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "6a6eb01c3a425f9dd78dcec3337898cc2b1ac8e6e7dec2f209e63b75ae55e7f4"
 metafile = true
 
 [[files]]
