@@ -1,0 +1,13 @@
+name = "Simple Datapacks"
+filename = "simple-datapacks-fabric-2.6.1+1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Re6xQ62Z/versions/ZNVXnzsQ/simple-datapacks-fabric-2.6.1%2B1.21.9.jar"
+hash-format = "sha512"
+hash = "0bc2bce805a137305cc1598a7c61e4c71fbf47aabe4aac4d15a37fc83e9ee29ecbe255bed86ff0edd61af2ea15a4f58296571a866d8bbb421df1b6afcc9c573a"
+
+[update]
+[update.modrinth]
+mod-id = "Re6xQ62Z"
+version = "ZNVXnzsQ"

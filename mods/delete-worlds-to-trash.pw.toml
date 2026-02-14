@@ -1,0 +1,13 @@
+name = "Delete Worlds To Trash"
+filename = "DeleteWorldsToTrash-v21.11.0-mc1.21.11-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7diJQfvM/versions/YSVzSskA/DeleteWorldsToTrash-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "b0ba290c9d783dcbf21b29c02ef873635690257da8fa876546b9f6e6a1be8d63c4de5a9a4c6527e27c742f8c0a735c1fd2b454b14d6483719f238b61c755d7e6"
+
+[update]
+[update.modrinth]
+mod-id = "7diJQfvM"
+version = "YSVzSskA"
