@@ -261,11 +261,6 @@ hash = "85ca79ccc1896ec7168d0b61a4eca8ebfcbd096f46c37df07211952fa2d6f470"
 hash-format = "sha256"
 
 [[files]]
-file = "config/modmenu.json"
-hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
-hash-format = "sha256"
-
-[[files]]
 file = "config/naturally_trimmed.json5"
 hash = "582e93c8d737a4184720edcd3d19c10d4a80318ce1ec7ad685b4058c4aeb0fc4"
 hash-format = "sha256"
@@ -729,12 +724,6 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "6324b634d5e464cf2606cce4e1d9b923701cad31764858d982fe0738129e0e4e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modmenu.pw.toml"
-hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 hash-format = "sha256"
 metafile = true
 
