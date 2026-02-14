@@ -878,12 +878,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "e8338121752473aee4681eede26c3eac75bf6ff5bfd1a0d43a1848b491a4c7a6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "39073c6935a5a7730a59c104727efa9a7f1dcd3d75c06d5bbe79e54396515ee3"
 hash-format = "sha256"
