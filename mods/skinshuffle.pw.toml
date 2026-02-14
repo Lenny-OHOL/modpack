@@ -3,11 +3,11 @@ filename = "skinshuffle-2.10.1+1.21.11-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f7dd38879f3f932ccd145dcc84fef90f95d04be8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3s19I5jr/versions/BaVZ1Rmt/skinshuffle-2.10.1%2B1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "6f0c774267f87dfefb8d96ddb08a3c2468243d693bc2b59bfe5fc75cc60ee38f0fdf70c6e11cb7a74a8ae3ec09ac1056fbb2b883c2e49cf2c16a54701161dbda"
 
 [update]
-[update.curseforge]
-file-id = 7318632
-project-id = 876386
+[update.modrinth]
+mod-id = "3s19I5jr"
+version = "BaVZ1Rmt"
