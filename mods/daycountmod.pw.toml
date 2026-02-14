@@ -1,0 +1,13 @@
+name = "Day Count"
+filename = "DayCount-1.3.5-mc1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x0SkO6LO/versions/JUN1lGNo/DayCount-1.3.5-mc1.21.9.jar"
+hash-format = "sha512"
+hash = "aecb8812c073f41cb28bc235cd5773e9eb44c7d626ff88ebd760b215bf50004f9a85bacafa24da08949cab09d0bea7db8b3f23aafedfe33c8f0f31d07774ada9"
+
+[update]
+[update.modrinth]
+mod-id = "x0SkO6LO"
+version = "JUN1lGNo"
