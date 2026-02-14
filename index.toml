@@ -61,11 +61,6 @@ hash = "5dc4f29febdf22dd04f2c119f265f279d4f79bfaca4e75ea2b31dec95461b348"
 hash-format = "sha256"
 
 [[files]]
-file = "config/cropsloverain.toml"
-hash = "a1933b6fd80e7a9c7551bdb9c3174420a7da95627786d4e351a3053382516c06"
-hash-format = "sha256"
-
-[[files]]
 file = "config/cubes-without-borders.json"
 hash = "80b5907ae2254301a63b61fe049b4e0f7e6d038e09ef41091f671b808b12c87a"
 hash-format = "sha256"
