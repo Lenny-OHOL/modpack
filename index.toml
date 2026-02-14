@@ -1362,16 +1362,6 @@ hash = "ae51eeb0fcda98cdab710591d072a1413ac0c84edbc050fc784b3caa33313e7a"
 hash-format = "sha256"
 
 [[files]]
-file = "servers.dat"
-hash = "cd71d9155cb74c2fd3ed7faf02713e42c5e3db63994f40100ad3f81e63da8fe9"
-hash-format = "sha256"
-
-[[files]]
-file = "servers.dat_old"
-hash = "cd71d9155cb74c2fd3ed7faf02713e42c5e3db63994f40100ad3f81e63da8fe9"
-hash-format = "sha256"
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
 hash = "33153747d25fbee470acb42ccf4f26b03cc551bb900d4c6d3389b5500dd84839"
 hash-format = "sha256"
@@ -1379,9 +1369,4 @@ hash-format = "sha256"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
 hash = "5b7d7fb5775cb17e0f386401f88c9db6fd70be3c12316229f75a11db9f58460d"
-hash-format = "sha256"
-
-[[files]]
-file = "usercache.json"
-hash = "97044c112ea8016143c4012bfec5a9deb7a0c3ecbf8cc88769a4f705d6f28cb3"
 hash-format = "sha256"
