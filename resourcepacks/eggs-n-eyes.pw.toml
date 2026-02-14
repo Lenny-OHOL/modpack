@@ -1,0 +1,13 @@
+name = "Eggs N Eyes"
+filename = "Eggs N Eyes 1.0.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ca2c557bac009dbf5caaffa5f47caacc46e2410"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7406535
+project-id = 1206149

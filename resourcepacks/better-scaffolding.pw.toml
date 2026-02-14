@@ -1,0 +1,13 @@
+name = "Better Scaffolding"
+filename = "Better Scaffolding Visibility.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42e3ee8c165ca12a43f7b4c59515c7513fec6c99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7469537
+project-id = 1287477

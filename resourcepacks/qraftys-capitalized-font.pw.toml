@@ -1,0 +1,13 @@
+name = "qrafty's CAPITALIZED FONT"
+filename = "qrafty's-capitalized-font-3.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "873a2ed46c35497512fbbc665b3e502fb93fc267"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7313132
+project-id = 1079595

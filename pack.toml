@@ -1,0 +1,13 @@
+name = "Vanilla Perfected"
+author = "Lenny"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ea5ae023a1fa871173526d613f7ca3e6e8defa78e2a84f8983c25bfd3114c75b"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"

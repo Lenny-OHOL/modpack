@@ -1,0 +1,13 @@
+name = "AL's Zombies Revamped x Fresh Animations"
+filename = "AL's Zombies Revamped+FA 1.4.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "880efe33cf2c12a9b331f1334ca3f588fd8da7d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7249035
+project-id = 916492
