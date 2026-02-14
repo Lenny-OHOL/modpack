@@ -1,0 +1,13 @@
+name = "MaLiLib Update Port"
+filename = "malilib-fabric-1.21.11-0.27.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc6b44c09afc2a90b02366bd009e05110018cebe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7450554
+project-id = 1207432
