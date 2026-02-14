@@ -481,6 +481,12 @@ hash = "0f0089152f85ea0802005443c6c13bc73e6ad8ca52b76a2c46c9c003e5c6d5db"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/Axiom-5.2.1-for-MC1.21.11.jar"
 hash = "57774fc64a3e8bcb1c798ec8c9c7eed127e48f4385361efa3e84adc61b41f9a6"
 hash-format = "sha256"
