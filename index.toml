@@ -394,7 +394,7 @@ hash = "c9616434ead2216f5bf2debc06a7b8102c8b77ce4e03463536f6a70b91b0ffc5"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "cb70174b0daa4c90b5b573e8043bc06381355e3bb7c337394f4e324a8918fa40"
+hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
 metafile = true
 
 [[files]]
@@ -712,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "90a4b6b720f3ab5bbfe5c766287a4297c638f503311b611f55cabb55c10060c2"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "cf2a50560f03613b7356103544a1f11d38da73fc445b5ec0b5a29c10543c3cfd"
 metafile = true
 
 [[files]]
