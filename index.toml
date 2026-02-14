@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "f17308c65138649f2ef6a11c4132b33176375eeea6887248ad83f9ace55abea8"
+hash = "62252cfa103c2511680800f5e5e53f745840629bb62ff6dfb9420e8f98c87636"
 hash-format = "sha256"
 metafile = true
 
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "cf2a50560f03613b7356103544a1f11d38da73fc445b5ec0b5a29c10543c3cfd"
+hash = "a9a12d51606befdc928f127ceff3c0b2ebaf4ca61ff80d62c1290e4d72b91ff8"
 hash-format = "sha256"
 metafile = true
 
