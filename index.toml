@@ -1,21 +1,6 @@
 hash-format = "sha1"
 
 [[files]]
-file = ".mixin.out/class/net/minecraft/class_1291.class"
-hash = "dc1813c25fc4cd2a6aff0693fc2bb7cfabab0ba5abb3aab603e053f3c329dbc7"
-hash-format = "sha256"
-
-[[files]]
-file = ".mixin.out/class/net/minecraft/class_9959.class"
-hash = "1b234561640ca79f41ba19d26ee30e02bf60792c30866963beb70300660b8ccf"
-hash-format = "sha256"
-
-[[files]]
-file = "command_history.txt"
-hash = "f1ee6f5a0e0c1bb018fbf23bc9028bd9bfeecbcbfe0ee977bc7c5673f5412261"
-hash-format = "sha256"
-
-[[files]]
 file = "config/GlowingTorchflower/main.conf"
 hash = "39bfc57c931f8c2b9b4e6dad1a57c10f222a759f1bfa8fe6aee0e05385aa9ddc"
 hash-format = "sha256"
@@ -492,11 +477,6 @@ hash = "57774fc64a3e8bcb1c798ec8c9c7eed127e48f4385361efa3e84adc61b41f9a6"
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Flashback-0.39.1-for-MC1.21.11.jar"
-hash = "c9616434ead2216f5bf2debc06a7b8102c8b77ce4e03463536f6a70b91b0ffc5"
-hash-format = "sha256"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
 hash-format = "sha256"
@@ -671,12 +651,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/flashback.pw.toml"
-hash = "544eaa2ff476c609cbfd4487fcdd09feda5f9208f1976bf3ceb4fbe4e3bb0e27"
 hash-format = "sha256"
 metafile = true
 
@@ -939,6 +913,228 @@ hash-format = "sha256"
 [[files]]
 file = "realms_persistence.json"
 hash = "6a050bb145147bc82b941b51cb316bd7b7d3e72dc0eb4c2bcdaa9b794375a260"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Almost Vanilla Potions.zip"
+hash = "b588042779f43ae864e950c7d49218c0416e585e8908234c40c8235cdb5e4929"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Bushier Bushes v2.1.1.zip"
+hash = "50238d1c902560ff6087eb965bedf84cd442faab567610b792d4a8b320868e13"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Clearer Slot Highlight.zip"
+hash = "1aecf7a57797a1552035f0d6236ae80ba456d7572ca0cb9717fe0026fe323ee2"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Dani's Oxidizing Copper Tools.zip"
+hash = "28c0b9e4ca0218c1fccf86b9114509e65a763238401ba85ca4ea2408a897ca4b"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Enchantment Outlines.zip.rpo"
+hash = "bb3cf77b8a866049b12e6ce94404718a019fe8ac158844395ec4990106ba216a"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Lively Turtle Helmet.zip"
+hash = "f40e5845e21f5ca484e49602e0fb552f85786846bcd1e838adab1a97494c3670"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Pop-out Clock (1.21.5+).zip"
+hash = "4e011501d69c01a590765ad3c972a78de7bbe984ee1fe71582a05f7761318d3e"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Re-covered.zip.rpo"
+hash = "de438f8a95e14b1716a28aee70ef14b06ddc267361b88ed421adb1e094823ec2"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Roman Numerals for Enchant Icons.zip"
+hash = "4f6766ba0061c72d3865f182cb3d647fd28d70f4da14c1d9394a5159f98f6715"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Vanilla Perfected Panorama 1.21.11.zip"
+hash = "03987dbc5eb7da6bfdbef1276929f1492da9da245a1f34aa5dce7b2fba658c58"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r942498_MC1.21.x.zip"
+hash = "32106c829870c460d931670627f52236ee0dfbce00ad2cb5bfa3fde910c55dc0"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Weskerson's Torches.zip"
+hash = "f7cebce6efa6c7ad47c6a5b56af94220e679593bc3804c52487519cb6f73b78d"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/als-armor-stands-revamped.pw.toml"
+hash = "b22ba41f97778869a999e48985a643d4a5dbb9dd5e4d55a923628fd4c5c2ad7f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-creepers-revamped.pw.toml"
+hash = "47a733d286e79067a59d656a169835e78318a5b191e268e05ad395ea514e1300"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-dungeons-boss-bars.pw.toml"
+hash = "031297cdfe98fc0161f45ec3b7d2f3e9337f369ada9b4174630c5bf158bc3515"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-enderman-revamped-x-fresh-animations.pw.toml"
+hash = "21039eab00e911252ba9fcc70b2f22f628c0dfd5ce6797dcf99b87a43484b4de"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-piglins-revamped-x-fresh-animations.pw.toml"
+hash = "138e91e1968ae82cbdf656f2c93b0f8eb8dde38772e64dfc571743139be066d1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-scorpions-crabs-x-fresh-animations.pw.toml"
+hash = "08257f0414d09f8a0449d11c748215a3662890799780e653b42533badcd2b96f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-skeletons-revamped-classic-faces.pw.toml"
+hash = "c7ca509ccd7f624914a14b99acea9f21dcf2d438a939365f8708fdfe94819b53"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-skeletons-revamped-x-fresh-animations.pw.toml"
+hash = "79b773f537cae789268cc9d64b96bd34ba11203b79250a877a9437a2777255a1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-zombies-revamped-x-fresh-animations.pw.toml"
+hash = "d8835a7b3d1a65f853e71920aebf21e9f3d8a98c49ce065f49ab0bcfea05f0a1"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-scaffolding.pw.toml"
+hash = "50a6cd469c6f24455374564e5c5352661b9b2bafd7523b5f632d5aa3ab2ac6fa"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-blazes-x-fresh-animations.pw.toml"
+hash = "39308595bec0c8887a1fdd0aa78ad2d006970bb351f13a7cdbbfc7981969f1b3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drodis-illagers-x-fresh-animations.pw.toml"
+hash = "f76d2761fe2e6c4e5dc1f06a0de64280632b2edabca8e2f75eda40dbf84fbdb2"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eggs-n-eyes.pw.toml"
+hash = "369dc466f4b622087f7a79e037ead3586e579dc06f964f311eb0880d189bdc0b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "92b66d32ee6481b3661bcce2a9d5b0a432c5aa7539774091c8549d7440d7a94e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted-books-re-covered.pw.toml"
+hash = "b0c220e91f79a3272059be9ae0b20fa31ea01a4ca2789ce2755de67f88dc8439"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchantment-outlines.pw.toml"
+hash = "f5e32c2fc5af72df27bd1d7a15c35b6890b57d4026d24c3336399361f750b67e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/minecarts-with-wheels.pw.toml"
+hash = "abc773811005589667305f4929f31032d02dd6f2b0af2717820e185adbd91e2a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/qraftys-capitalized-font.pw.toml"
+hash = "f3096c909dd77d34611b483004f525acaa1eb833f87ac6a2f10f4db1a4aaf9c0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/recolourful-containers-gui-hud.pw.toml"
+hash = "bced43ecc4358508fbbfee3fb94066672f8fcb18cddca2faa1ca98c05c0ca1e4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "44940260d738464d95bbc5512845e6f52da8558685ebffe44e046514942f78f6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/theones-eating-animation-pack.pw.toml"
+hash = "ae098285157523040741f4ed143517ad9f9ea71ace9c647be06a3741f30b87a6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual_armor_trims_4.1.zip"
+hash = "9987fd589c5dc452007a90610d57c73bf5faf157ecea7443b134cc775a36e16d"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/§3Fresh §bFlower Pots Rotated.zip"
+hash = "8240ce33137e8a02a29766d3beb111c6a585008d3084d03b5c556a00590f3b58"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/§3Fresh §bFlower Pots.zip"
+hash = "d86043bfc7e31df9e2a227802be8af103f9446efe06c619ef6154966a5d358be"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/§9Drodi's Illagers x FA [v5.2].zip.rpo"
+hash = "ba6a68d734f41eaa8ba93ead89386a165e0a4439c0fabcba4a136a9c60ebc8c0"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/§9Drodi's Illagers x FA [v5.2].zip.rpo.disabled"
+hash = "ba6a68d734f41eaa8ba93ead89386a165e0a4439c0fabcba4a136a9c60ebc8c0"
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/§eShelviety§0_v2.0.zip"
+hash = "490d8d1b02dbdeeae0fc77ddc9d72ceb1a04a650ff0ceac7c43349ba1962ec54"
 hash-format = "sha256"
 
 [[files]]
