@@ -559,12 +559,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/crops-love-rain.pw.toml"
-hash = "32ce7ee069fcf552e2b97a40c16cde030416721075e2a94919d634217c88eb10"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 hash-format = "sha256"
