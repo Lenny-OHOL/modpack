@@ -1,0 +1,14 @@
+{
+  "chosenPreset": 0,
+  "apiPreset": 0,
+  "loadedPresets": [
+    {
+      "skin": {
+        "skin_name": "816898125",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "NewyearPioneer"
+    }
+  ]
+}

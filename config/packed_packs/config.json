@@ -1,0 +1,24 @@
+{
+  "devMode": false,
+  "showActionBar": false,
+  "hideIncompatible": false,
+  "sort": "VANILLA",
+  "resourcepacks": {
+    "applyOnClose": true,
+    "replaceOriginal": true,
+    "hideIncompatibleWarnings": true,
+    "additionalFolders": [],
+    "rememberLastViewedProfile": false,
+    "lastViewedProfile": "Vanilla Perfected Default__a4fe6023",
+    "profileOrder": [
+      "Vanilla Perfected Default__a4fe6023"
+    ]
+  },
+  "datapacks": {
+    "replaceOriginal": true,
+    "hideIncompatibleWarnings": false,
+    "additionalFolders": [],
+    "rememberLastViewedProfile": false,
+    "profileOrder": []
+  }
+}
