@@ -441,6 +441,26 @@ hash = "9c20b3290a1e3e21e4f307ea9e7c0efce2c30a8c223872e975cf9866a79ea378"
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/FishingRework.zip"
+hash = "e857b263b68d6f96ce940477a53410792a757980572d4d4e51978a28c0115ebe"
+hash-format = "sha256"
+
+[[files]]
+file = "datapacks/Graves v3.0.0 [1.21.11].zip"
+hash = "933552ff7e253ea3800ec6a441b873f281ae30351de75eb98120025f0de19c0c"
+hash-format = "sha256"
+
+[[files]]
+file = "datapacks/Player-Drops-Head-v3.4.1.zip"
+hash = "8f42f5991cee4ae8f830fc09be8ef7c3f88a755e00fbde3528da2ab4973f670a"
+hash-format = "sha256"
+
+[[files]]
+file = "datapacks/TreeVeinMiner.zip"
+hash = "1ba1427a91dd5ddf4bcf7c7aa8bb518a9ee96c837ff5c8fe9b85548813c01df8"
+hash-format = "sha256"
+
+[[files]]
 file = "debug-profile.json"
 hash = "98fdc4614c9522919b7913eb26aa297b89ef46bee202065cf4e8817018f98208"
 hash-format = "sha256"
@@ -465,6 +485,12 @@ metafile = true
 file = "mods/Axiom-5.2.1-for-MC1.21.11.jar"
 hash = "57774fc64a3e8bcb1c798ec8c9c7eed127e48f4385361efa3e84adc61b41f9a6"
 hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -675,8 +701,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "e08234a2bad5db52b9dbb13fbcd47f5609e869eca3437554b98bc33dcd8c7c4e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "21caf1cc09d510a23284e704cb5211408085d5964e5d6ca129fc0dc175c8fb79"
 hash-format = "sha256"
 metafile = true
 
@@ -868,6 +906,24 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "a9a12d51606befdc928f127ceff3c0b2ebaf4ca61ff80d62c1290e4d72b91ff8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-map-server-utils.pw.toml"
+hash = "75b3010e19f9a02570ef3d9a2c8b013c573631402bb0c03f82856e34edcbaf49"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a61e5977069e33bcb8792164947c214322b115f85ee64187292a527598a0248a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "083897a9e8b043d2794d0ee05ffb01e54236f7264fabf852efb2bb8d37c5bdc6"
 hash-format = "sha256"
 metafile = true
 
