@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns"
+filename = "Dungeons and Taverns v5.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tpehi7ww/versions/HLvm1mCw/Dungeons%20and%20Taverns%20v5.1.0.zip"
+hash-format = "sha512"
+hash = "058387fa05510973f041b4c6dc0f57294d5b0bf284fe917517ea662d5c8c6cf93e8f489f5790203cd9f2ef33c1b28d229faeeb23053fb040e4cde4d785de9914"
+
+[update]
+[update.modrinth]
+mod-id = "tpehi7ww"
+version = "HLvm1mCw"

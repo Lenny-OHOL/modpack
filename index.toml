@@ -461,6 +461,18 @@ hash = "1ba1427a91dd5ddf4bcf7c7aa8bb518a9ee96c837ff5c8fe9b85548813c01df8"
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/blazeandcaves-advancements-pack.pw.toml"
+hash = "f6c9384f450080f7e2f96e4429e947e213aca2d0c1b884ef6393ffb86124e484"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/dungeons-and-taverns.pw.toml"
+hash = "6219adbbf72d5858bbc2cc34953b17fce20cacf7d3c5e3f333853bee380d3ad4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "debug-profile.json"
 hash = "98fdc4614c9522919b7913eb26aa297b89ef46bee202065cf4e8817018f98208"
 hash-format = "sha256"
@@ -601,12 +613,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "eabf339ea4474e2aec057f993e149d5c45633b8432b05362fb0d430aade9d457"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/dungeon-and-taverns.pw.toml"
-hash = "7c10a53c3a740f75853d5d6583cbdc15b5ce267f979d5dadc312b4d1c78879b5"
 hash-format = "sha256"
 metafile = true
 
@@ -864,6 +870,12 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "77f6ba8f063840c0d8a58bba2cedc2743d136c1d51cdd28d3506d19e167e08d5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/serversleep.pw.toml"
+hash = "9843eed4c125f63f46d4156d97255674dfb05811c4c51111d339116697625089"
 hash-format = "sha256"
 metafile = true
 
