@@ -461,6 +461,12 @@ hash = "1ba1427a91dd5ddf4bcf7c7aa8bb518a9ee96c837ff5c8fe9b85548813c01df8"
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/armor-stand-arms.pw.toml"
+hash = "6e9b665fb2a7b9f5dfca933460a14c0756a2f91b81bab51e3e59fcf73e7eea4f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "datapacks/blazeandcaves-advancements-pack.pw.toml"
 hash = "f6c9384f450080f7e2f96e4429e947e213aca2d0c1b884ef6393ffb86124e484"
 hash-format = "sha256"
@@ -566,6 +572,11 @@ hash = "0f0089152f85ea0802005443c6c13bc73e6ad8ca52b76a2c46c9c003e5c6d5db"
 hash-format = "sha256"
 
 [[files]]
+file = "karn-pack-V3-changelog.txt"
+hash = "59a9f84a959776b150cbb4ca090bdc08374a2f8aba06fa66d62cfdd0e2ecb7d9"
+hash-format = "sha256"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
 hash-format = "sha256"
@@ -585,12 +596,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/armor-stand-arms.pw.toml"
-hash = "7ab5d1cbf435ff9604022dbee9c506944ed0842325d5ec9f8e2c03d9cdc2de4d"
 hash-format = "sha256"
 metafile = true
 
