@@ -467,8 +467,86 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "datapacks/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "ded98af728ffeb26ee0c14f89614e8a859099d55d160f399ab624c97d0a9a562"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "635e80631d5ef55e7e19c4bedc55cce7e31af86fa75847cc915a9ff86a60cd17"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "a44749e70f403caf5cce20e86ff3cc79b827bd838578a941afb725535c90adb3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "cc711d7d86a14011c479d88f801d53843a95fd9ed50c8954b682a218aaa02830"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "848fab8255bfc204ad42d2ebe504909452d7c8f924a2c76a2c9c0658c093d9ea"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "6305cfd0cc6b7cfb9f13d85dbb163349dd89fd79800885733a31ed9c60bd845a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "614ae9bf602aaec1e57c84fb136a42ad73ae8e8e0e02441982569f890c709fec"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "2a41604b12b5a9f070e70b1f446ca85fb804dcebaa61881644ca0fd59fb50e19"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+hash = "4d662f08bd79654c77fcce4e6c01a457db09c43d0096a10a61e570bde21b2bd9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "datapacks/dungeons-and-taverns.pw.toml"
 hash = "6219adbbf72d5858bbc2cc34953b17fce20cacf7d3c5e3f333853bee380d3ad4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/explorify.pw.toml"
+hash = "e2b6371146927f69ca5bb7d3df310f0384313e8492ad686379c5004194a70b04"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/geophilic.pw.toml"
+hash = "e10f68a12b1e7ebd7f37c759fc19161f3cb44ed0a9e69cbbbb8417c1a3fd59cd"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/sit-datapack.pw.toml"
+hash = "6962c15b93426040c59cd4eee4249d96809273808af097493ad907c4c48572b4"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "datapacks/wabi-sabi-structures.pw.toml"
+hash = "72db257270c848d2ac2cd80aba2d7767b62dd233a76f7ee3240038fdb7f03c67"
 hash-format = "sha256"
 metafile = true
 

@@ -1,0 +1,13 @@
+name = "/sit"
+filename = "sit.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MI2DOogd/versions/v1KBlO8e/sit.zip"
+hash-format = "sha512"
+hash = "e2546025324fa09dd66694fb6f7095ec1b93e03e8d8edc56d7333f178b00119f180f533a32b40fd5d6eea2f389d88c945d74eb0f4917d59e0e032be33c808ebe"
+
+[update]
+[update.modrinth]
+mod-id = "MI2DOogd"
+version = "v1KBlO8e"

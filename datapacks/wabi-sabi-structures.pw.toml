@@ -1,0 +1,13 @@
+name = "Wabi-Sabi Structures"
+filename = "Wabi-Sabi Structures-3.0.5-1.21.11 Datapack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vr3O6THr/versions/MujHshid/Wabi-Sabi%20Structures-3.0.5-1.21.11%20Datapack.zip"
+hash-format = "sha512"
+hash = "91364f7fadcf3bed72723f598a535c4475bc4397983861b949e7932cb41ce788bbd7d66d9279545e4630c8dd5dc334791d7096328f41d7b4c90f69c9f8ee59a4"
+
+[update]
+[update.modrinth]
+mod-id = "Vr3O6THr"
+version = "MujHshid"
