@@ -1,0 +1,5 @@
+#Git Files
+.git/
+
+#other files
+*.md
