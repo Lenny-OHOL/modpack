@@ -629,6 +629,12 @@ hash = "004caf0aedf754cb45fbfb5590fcb016fefdb2dc63b9cd26014beff08c83427a"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/cardboard.pw.toml"
+hash = "c6b6ec6e13acdf2f716c9a3b2acd5b33e2c42742912696b20c2ef589763446f9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "9854603f767980c514aefe9c391a6d3fa89dc6be18d23ab462f2a3bbabe7652c"
 hash-format = "sha256"
@@ -924,6 +930,12 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "565c943b5006c36137a2fe55e4b8433e134c3d1011a37c5f5124cee67b671cb8"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/reseed.pw.toml"
+hash = "05b919ec1a2fd5599389ad818d0e6f3836722407f085c6d102a60d727368f20b"
 hash-format = "sha256"
 metafile = true
 

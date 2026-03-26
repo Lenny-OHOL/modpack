@@ -1,0 +1,13 @@
+name = "reSeed (Seed Scroller)"
+filename = "reSeed-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbKPtZwE/versions/PFREYhge/reSeed-1.0.jar"
+hash-format = "sha512"
+hash = "ad0f1e7a8ba7f470fc388da7f2cab6f978c0b4c690cb3cc63ed7f4d3662eb3961d2f97c9621e94796645b3e1edfd3ef4cc8b773afaf4547bbdab0366100ea519"
+
+[update]
+[update.modrinth]
+mod-id = "bbKPtZwE"
+version = "PFREYhge"
