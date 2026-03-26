@@ -749,6 +749,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/faciliscommon.pw.toml"
+hash = "c7013db934dcf9761bcab675c3f1ec6b73de4b9bf205357fa3301b3913aede1e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
 hash-format = "sha256"
@@ -864,6 +870,12 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/multiworld-bukkit.pw.toml"
+hash = "f438a98aae6a8a30c29e2282f83f7c9b9a039e5946f90d45b9f0e15fa331c70a"
 hash-format = "sha256"
 metafile = true
 

@@ -1,0 +1,13 @@
+name = "MultiWorld"
+filename = "MultiWorld-Bukkit-1.7.7-SNAPSHOT.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KhDvVEoP/versions/MLblsJEi/MultiWorld-Bukkit-1.7.7-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "2bc44566a21f6982c56d3e4761b82bd48f81fd998d749410624ff7a9eca36f378a1b4d57d16e8dd036c8e4e74c24bc0581c7827078779d1ebc3465048b857d7a"
+
+[update]
+[update.modrinth]
+mod-id = "KhDvVEoP"
+version = "MLblsJEi"

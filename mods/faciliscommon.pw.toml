@@ -1,0 +1,13 @@
+name = "FacilisCommon"
+filename = "FacilisCommon-Bukkit-1.0.7-SNAPSHOT.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BbBzV3md/versions/vnMY6h0l/FacilisCommon-Bukkit-1.0.7-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "3c8b9849a04fec0d2472160596cb6b0f68be988b9b5ec9927567cbbb2bf579c0ba6cab3aabaf892b9e02b1e3fdeaea0a331a5f4996a8ac4544036676da5968cd"
+
+[update]
+[update.modrinth]
+mod-id = "BbBzV3md"
+version = "vnMY6h0l"
